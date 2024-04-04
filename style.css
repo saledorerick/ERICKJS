@@ -1,0 +1,76 @@
+.container {
+    width: 545px;
+    margin: 0 auto;
+    border: 4px solid black;
+    padding: 25px;
+  }
+
+h1{
+    text-align: center;
+    font : 300px;
+}
+  .label {
+    font-size: 20px;
+  }
+  input[type=text],
+input[type=password] {
+    width: 97%;
+    padding: 10px;
+    margin: 5px 0 22px 0;
+  }
+
+  .FirstnameTXT {
+      width: 525px;
+      padding: 10px;
+      margin: 5px 0;
+    }
+	.MiddlenameTXT {
+      width: 525px;
+      padding: 10px;
+      margin: 5px 0;
+    }
+	.LastnameTXT {
+      width: 525px;
+      padding: 10px;
+      margin: 5px 0;
+    }
+  .CourseTXT {
+        width: 525px;
+        padding: 10px;
+        margin: 5px 0;
+      }
+     .ContactTXT {
+        width: 525px;
+        padding: 10px;
+        margin: 5px 0;
+      } 
+  .StudentNoTXT {
+          width: 525px;
+          padding: 10px;  
+          margin: 5px 0;
+        }
+
+ .AddressTXT {
+         width: 525px;
+         padding: 10px;
+         margin: 5px 0;
+          }
+
+ .Registerbtn {
+		background-color: #04AA6D;
+		color: white;
+		padding: 16px 20px;
+		margin: 8px 0;
+		border: none;
+		cursor: pointer;
+		width: 100%;
+		opacity: 0.9;
+}
+body{
+		background-color: white;
+		background-image: url("2bodybackground.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+		padding: 0;
+ }
